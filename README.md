@@ -1,0 +1,2 @@
+# AIDRA-Adaptive-Intelligent-Disaster-Response-Agent-
+AIDRA (Adaptive Intelligent Disaster Response Agent) is an AI-based system that simulates disaster scenarios using a grid environment. It integrates machine learning for victim triage, search algorithms for pathfinding, and CSP for resource allocation. The system demonstrates intelligent, adaptive decision-making for emergency rescue operations.
